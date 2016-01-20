@@ -1,0 +1,27 @@
+#Panel
+panel_position = bottom left 
+panel_size = 65% 46
+panel_items = L
+
+#Launchers
+launcher_icon_theme = Moka
+launcher_item_app = /usr/share/applications/kde4/dolphin.desktop
+launcher_item_app = /usr/share/applications/nautilus.desktop
+launcher_item_app = /usr/share/applications/eclipse.desktop
+launcher_item_app = /usr/share/applications/androidstudio.desktop
+launcher_item_app = /home/vince/genymotion/genymotion.desktop
+launcher_item_app = /usr/share/applications/virtualbox.desktop
+launcher_item_app = /usr/share/applications/vim.desktop
+launcher_item_app = /usr/share/applications/tilda.desktop
+launcher_item_app = /usr/share/applications/jetbrains-studio.desktop
+launcher_item_app = /usr/share/applications/libreoffice-calc.desktop
+launcher_item_app = /usr/share/applications/libreoffice-writer.desktop
+launcher_item_app = /usr/share/applications/google-chrome-beta.desktop
+launcher_item_app = /home/vince/Desktop/SublimeText2/sublimetext.desktop
+
+#Panel Autohide
+autohide = 0
+autohide_show_timeout = 0
+autohide_hide_timeout = 0.5
+autohide_height = 0
+strut_policy = minimum
